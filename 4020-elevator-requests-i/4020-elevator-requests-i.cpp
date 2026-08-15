@@ -4,7 +4,13 @@ public:
         int time = requests[0];
 
         for(int i = 1; i < requests.size(); i++){
-            time += abs(requests[i] - requests[i - 1]); 
+            int distBetw = requests[i] - requests[i - 1];
+            
+            if(distBetw < 0){
+                distBetw = -distBetw;
+            }
+
+            time += distBetw; 
         }
 
         return time;
