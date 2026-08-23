@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0086-partition-list](https://github.com/Abhinav1574k/AbhiCode/tree/master/0086-partition-list) |
 | [0541-reverse-string-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0541-reverse-string-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## String
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Abhinav1574k/AbhiCode/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
