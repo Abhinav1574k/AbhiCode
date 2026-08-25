@@ -4,9 +4,7 @@ public:
         unordered_set<int> st;
 
         for(int num: nums){
-            if(num % k == 0){
-                st.insert(num);
-            }
+            st.insert(num);
         }
 
         int i = 1;
