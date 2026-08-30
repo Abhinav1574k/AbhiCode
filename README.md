@@ -58,4 +58,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Abhinav1574k/AbhiCode/tree/master/0086-partition-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0693-binary-number-with-alternating-bits](https://github.com/Abhinav1574k/AbhiCode/tree/master/0693-binary-number-with-alternating-bits) |
 <!---LeetCode Topics End-->
