@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-valid-mountain-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav1574k/AbhiCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Abhinav1574k/AbhiCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Sorting
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav1574k/AbhiCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Linked List
 |  |
 | ------- |
@@ -64,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhinav1574k/AbhiCode/tree/master/0693-binary-number-with-alternating-bits) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav1574k/AbhiCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
