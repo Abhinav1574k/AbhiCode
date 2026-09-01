@@ -4,14 +4,10 @@ public:
         int oddCount = 0;
 
         for(int num : arr){
-            if(num % 2 != 0){
-                oddCount++;
-                if(oddCount == 3){
-                    return true;
-                }
-            }
-            else{
-                oddCount = 0;
+            oddCount = num % 2 ? oddCount + 1 : 0 ;
+
+            if(oddCount == 3){
+                return true;
             }
         }
         return false;
