@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1574k/AbhiCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Abhinav1574k/AbhiCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Enumeration
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhinav1574k/AbhiCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
 | ------- |
