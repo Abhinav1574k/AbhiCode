@@ -6,13 +6,24 @@ public:
         int count = 0;
 
         for(int i = 0; i < m; i++){
-            for(int j = 0; j < n; j++){
-                if(grid[i][j] < 0){
-                    count++;
+            int s = i * n;
+            int e = s + n - 1;
+
+            while(s < e){
+                int mid = s + (e - s) / 2;
+                
+                if(grid[mid / n][mid % n] >= 0){
+                    s = mid + 1;
+                }
+                else{
+                    e = mid;
                 }
             }
-        }
 
+            if(grid[s / n][s % n] < 0){
+                count += (i * n + n - s);
+            }
+        }
         return count;
     }
 };
