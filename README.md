@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/Abhinav1574k/AbhiCode/tree/master/0086-partition-list) |
 | [0541-reverse-string-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0541-reverse-string-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
 | [0541-reverse-string-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0541-reverse-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1574k/AbhiCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
 ## Array
 |  |
 | ------- |
