@@ -5,14 +5,11 @@ public:
         int sum = 0;
 
         for(int num : nums){
-            if(ump.find(num) != ump.end()){
-                if(ump[num] != -1){
-                    sum -= num;
-                    ump[num] = -1;
-                }
-            }
-            else{
-                ump[num]++;
+            ump[num]++;
+        }
+
+        for(int num : nums){
+            if(ump[num] == 1){
                 sum += num;
             }
         }
