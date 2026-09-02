@@ -1,22 +1,19 @@
 class Solution {
 public:
     bool areAlmostEqual(string s1, string s2) {
-        int n = s1.size();
+        int count = 0;
+        char c1 = 0, c2 = 0;
 
-        int i = 0;
-        while(i < n && s1[i] == s2[i]){
-            i++;
-        }
-        
-        int j = i + 1;
-        while(j < n && s1[j] == s2[j]){
-            j++;
-        }
-
-        if(i < n && j < n){
-            swap(s1[i], s1[j]);
+        for(int i = 0; i < s1.size(); i++){
+            if(s1[i] != s2[i]){
+                if(++count > 2 || (count == 2 && (c1 != s2[i] || c2 != s1[i]))){
+                    return false;
+                }
+                c1 = s1[i];
+                c2 = s2[i];
+            }
         }
 
-        return s1 == s2; 
+        return count != 1;
     }
 };
