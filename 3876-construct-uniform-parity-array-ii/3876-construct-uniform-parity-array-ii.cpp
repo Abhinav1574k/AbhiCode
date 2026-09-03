@@ -1,20 +1,23 @@
 class Solution {
 public:
-    bool uniformArray(vector<int>& nums1) {
-        int smallestOdd = INT_MAX, smallestEven = INT_MAX;
+    bool uniformArray(vector<int>& nums) {
+        int smallestOdd = INT_MAX;
 
-        for(int num : nums1){
-            if(num % 2 == 0){
-                smallestEven = min(smallestEven, num);
-            }
-            else{
+        for(int num : nums) {
+            if(num % 2 == 1) {
                 smallestOdd = min(smallestOdd, num);
             }
         }
 
-        if(smallestOdd == INT_MAX || smallestEven == INT_MAX || smallestOdd < smallestEven){
+        if(smallestOdd == INT_MAX){
             return true;
         }
-        return false;
+
+        for(int num : nums) {
+            if(num % 2 == 0 && num <= smallestOdd){
+                return false;
+            }
+        }
+        return true;
     }
 };
