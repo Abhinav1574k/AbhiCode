@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav1574k/AbhiCode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/0485-max-consecutive-ones) |
 | [0941-valid-mountain-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Abhinav1574k/AbhiCode/tree/master/0056-merge-intervals) |
+| [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhinav1574k/AbhiCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -90,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhinav1574k/AbhiCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Prefix Sum
@@ -97,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3904-smallest-stable-index-ii) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
