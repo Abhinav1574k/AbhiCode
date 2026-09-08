@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Abhinav1574k/AbhiCode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1574k/AbhiCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/1748-sum-of-unique-elements) |
+| [1929-concatenation-of-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1929-concatenation-of-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
