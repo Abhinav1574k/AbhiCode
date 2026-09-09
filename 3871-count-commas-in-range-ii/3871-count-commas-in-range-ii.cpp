@@ -6,6 +6,11 @@ public:
 
         while(p <= n){
             commas += (n - p + 1);
+
+            if (p > n / 1000){
+                break;
+            }
+        
             p *= 1000LL;
         }
         return commas;
