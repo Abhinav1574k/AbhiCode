@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1574k/AbhiCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Abhinav1574k/AbhiCode/tree/master/4010-maximize-pair-strength-using-gcd) |
