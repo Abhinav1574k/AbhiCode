@@ -1,18 +1,12 @@
 class Solution {
 public:
     char findTheDifference(string s, string t) {
-        unordered_map<char, int> ump;
+        char ch = t[t.size() - 1];
 
-        for(char ch : s){
-            ump[ch]++;
+        for(int i = 0; i < s.size(); i++){
+            ch ^= (s[i] ^ t[i]);
         }
 
-        for(char ch : t){
-            if(ump.find(ch) == ump.end() || ump[ch] == 0){
-                return ch;
-            }
-            ump[ch]--;
-        }
-        return t[0];
+        return ch;
     }
 };
