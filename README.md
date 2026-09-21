@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Abhinav1574k/AbhiCode/tree/master/0056-merge-intervals) |
 | [0229-majority-element-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/0485-max-consecutive-ones) |
+| [0896-monotonic-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/0896-monotonic-array) |
 | [0941-valid-mountain-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/0941-valid-mountain-array) |
 | [1287-element-appearing-more-than-25-in-sorted-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1287-element-appearing-more-than-25-in-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
