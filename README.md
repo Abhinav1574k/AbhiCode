@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Abhinav1574k/AbhiCode/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Abhinav1574k/AbhiCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhinav1574k/AbhiCode/tree/master/2427-number-of-common-factors) |
+| [2469-convert-the-temperature](https://github.com/Abhinav1574k/AbhiCode/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1574k/AbhiCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3871-count-commas-in-range-ii) |
