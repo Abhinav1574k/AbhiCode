@@ -1,10 +1,10 @@
 class Solution {
 public:
     int countDigits(int num) {
-        int temp = num, count = 0, digit;
+        int temp = num, count = 0;
 
         while(temp > 0){
-            digit = temp % 10;
+            int digit = temp % 10;
 
             if(num % digit == 0){
                 count++;
