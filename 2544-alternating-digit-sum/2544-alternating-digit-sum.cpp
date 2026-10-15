@@ -1,21 +1,15 @@
 class Solution {
 public:
     int alternateDigitSum(int n) {
-        int evenSum = 0, oddSum = 0;
-        int count = 0;
+        int sum = 0;
+        int sign = 1;
 
         while(n > 0){
-            if(count % 2 == 0){
-                evenSum += (n % 10);
-            }
-            else{
-                oddSum += (n % 10);
-            }
-
+            sum += sign * (n % 10);
+            sign *= -1;
             n /= 10;
-            count++;
         }
 
-        return count % 2 == 0 ? oddSum - evenSum : evenSum - oddSum;
+        return sign == 1 ? -sum : sum;
     }
 };
