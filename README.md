@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/Abhinav1574k/AbhiCode/tree/master/2525-categorize-box-according-to-criteria) |
 | [2544-alternating-digit-sum](https://github.com/Abhinav1574k/AbhiCode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2651-calculate-delayed-arrival-time](https://github.com/Abhinav1574k/AbhiCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1574k/AbhiCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3871-count-commas-in-range-ii) |
