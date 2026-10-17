@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -173,4 +174,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
