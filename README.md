@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abhinav1574k/AbhiCode/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Abhinav1574k/AbhiCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhinav1574k/AbhiCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
@@ -175,4 +177,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abhinav1574k/AbhiCode/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
