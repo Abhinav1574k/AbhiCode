@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Abhinav1574k/AbhiCode/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0541-reverse-string-ii) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1574k/AbhiCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Abhinav1574k/AbhiCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Abhinav1574k/AbhiCode/tree/master/0342-power-of-four) |
+| [0412-fizz-buzz](https://github.com/Abhinav1574k/AbhiCode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Abhinav1574k/AbhiCode/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1929-concatenation-of-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 ## Database
