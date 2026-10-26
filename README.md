@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Abhinav1574k/AbhiCode/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/0509-fibonacci-number) |
+| [1323-maximum-69-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -201,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1323-maximum-69-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/1323-maximum-69-number) |
 <!---LeetCode Topics End-->
