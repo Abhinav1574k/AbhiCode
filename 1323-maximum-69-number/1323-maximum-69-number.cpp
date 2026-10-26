@@ -1,15 +1,16 @@
 class Solution {
 public:
     int maximum69Number (int num) {
-        string res = to_string(num);
+        int pos = -1;
+        int place = 1;
 
-        for(int i = 0; i < res.size(); i++){
-            if(res[i] == '6'){
-                res[i] = '9';
-                return stoi(res);
+        for(int t = num; t > 0; t /= 10){
+            if(t % 10 == 6){
+                pos = place;
             }
+            place *= 10;
         }
 
-        return num;
+        return pos == -1 ? num : num + 3 * pos;
     }
 };
