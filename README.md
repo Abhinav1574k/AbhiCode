@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinav1574k/AbhiCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3903-smallest-stable-index-i) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3959-check-good-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/3959-check-good-integer) |
 ## Database
 |  |
