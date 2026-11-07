@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhinav1574k/AbhiCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhinav1574k/AbhiCode/tree/master/1812-determine-color-of-a-chessboard-square) |
+| [1816-truncate-sentence](https://github.com/Abhinav1574k/AbhiCode/tree/master/1816-truncate-sentence) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3110-score-of-a-string) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1550-three-consecutive-odds](https://github.com/Abhinav1574k/AbhiCode/tree/master/1550-three-consecutive-odds) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1574k/AbhiCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1748-sum-of-unique-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/1748-sum-of-unique-elements) |
+| [1816-truncate-sentence](https://github.com/Abhinav1574k/AbhiCode/tree/master/1816-truncate-sentence) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1929-concatenation-of-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
