@@ -1,12 +1,20 @@
 class Solution {
 public:
     bool checkIfPangram(string sentence) {
-        unordered_set<char> alpha;
+        vector<bool>alphabet(26,0);
         
-        for(char c: sentence){
-            alpha.insert(c);
+        for(int i = 0; i < sentence.size(); i++)
+        {
+            alphabet[sentence[i] - 'a'] = 1;  
         }
-
-        return alpha.size() == 26;
+        
+        for(int i = 0; i < 26; i++)
+        {
+            if(alphabet[i] == 0)
+            {
+                return false;
+            }
+        }
+        return true;
     }
 };
