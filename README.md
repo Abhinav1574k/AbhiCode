@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Abhinav1574k/AbhiCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Abhinav1574k/AbhiCode/tree/master/2652-sum-multiples) |
+| [2769-find-the-maximum-achievable-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinav1574k/AbhiCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
