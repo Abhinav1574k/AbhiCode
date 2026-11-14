@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1323-maximum-69-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/1323-maximum-69-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav1574k/AbhiCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/Abhinav1574k/AbhiCode/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Abhinav1574k/AbhiCode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/0389-find-the-difference) |
 | [0693-binary-number-with-alternating-bits](https://github.com/Abhinav1574k/AbhiCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Abhinav1574k/AbhiCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1486-xor-operation-in-an-array) |
 ## Matrix
 |  |
