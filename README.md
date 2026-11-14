@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/Abhinav1574k/AbhiCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Abhinav1574k/AbhiCode/tree/master/2525-categorize-box-according-to-criteria) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2544-alternating-digit-sum](https://github.com/Abhinav1574k/AbhiCode/tree/master/2544-alternating-digit-sum) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2651-calculate-delayed-arrival-time](https://github.com/Abhinav1574k/AbhiCode/tree/master/2651-calculate-delayed-arrival-time) |
