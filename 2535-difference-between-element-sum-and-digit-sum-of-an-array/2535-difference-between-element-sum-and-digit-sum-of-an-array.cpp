@@ -7,10 +7,9 @@ public:
         for (int num : nums) {
             elementSum += num;
             
-            int temp = num;
-            while (temp > 0) {
-                digitSum += temp % 10;
-                temp /= 10;
+            while (num > 0) {
+                digitSum += num % 10;
+                num /= 10;
             }
         }
         
