@@ -1,20 +1,17 @@
 class Solution {
 public:
     int countPartitions(vector<int>& nums) {
-        int sumRight = 0, count = 0, sumLeft = 0;
-
-        for(int num : nums){
-            sumRight += num;
+        int sum1 = nums[0], sum2 = 0, ans = 0;
+        for(int i = 1; i < nums.size(); i++){
+            sum2+= nums[i];
         }
-
-        for(int i = 0; i < nums.size() - 1; i++){
-            sumLeft += nums[i];
-            sumRight -= nums[i];
-            if((sumLeft - sumRight) % 2 == 0){
-                count++;
+        for(int i = 1; i < nums.size(); i++){
+            if((sum2 - sum1) % 2 == 0){
+                ans++;
             }
+            sum2-=nums[i];
+            sum1+=nums[i];
         }
-
-        return count;
+        return ans;
     }
 };
