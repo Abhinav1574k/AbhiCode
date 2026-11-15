@@ -1,17 +1,13 @@
 class Solution {
 public:
     int findPermutationDifference(string s, string t) {
-        unordered_map <char, int> ump;
+        int diff = 0;
 
-        for(int i = 0; i < s.size(); i++){
-            ump[s[i]] = i;
+        for(int i = 0;i<s.size(); i++){
+            int index = t.find(s[i]);
+            diff += abs(i - index);
         }
-
-        int sum = 0;
-        for(int i = 0; i < t.size(); i++){
-            sum += abs(i - ump[t[i]]);
-        }
-
-        return sum;
+        
+        return diff;
     }
 };
