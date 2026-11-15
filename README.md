@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/0541-reverse-string-ii) |
 | [0771-jewels-and-stones](https://github.com/Abhinav1574k/AbhiCode/tree/master/0771-jewels-and-stones) |
 | [1108-defanging-an-ip-address](https://github.com/Abhinav1574k/AbhiCode/tree/master/1108-defanging-an-ip-address) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav1574k/AbhiCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhinav1574k/AbhiCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhinav1574k/AbhiCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -321,5 +322,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav1574k/AbhiCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav1574k/AbhiCode/tree/master/2000-reverse-prefix-of-word) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav1574k/AbhiCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
