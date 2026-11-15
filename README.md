@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2643-row-with-maximum-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/2643-row-with-maximum-ones) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Abhinav1574k/AbhiCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [2643-row-with-maximum-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/2643-row-with-maximum-ones) |
 ## Counting
 |  |
 | ------- |
