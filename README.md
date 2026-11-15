@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2315-count-asterisks](https://github.com/Abhinav1574k/AbhiCode/tree/master/2315-count-asterisks) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Abhinav1574k/AbhiCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/Abhinav1574k/AbhiCode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav1574k/AbhiCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Abhinav1574k/AbhiCode/tree/master/3146-permutation-difference-between-two-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3945-digit-frequency-score](https://github.com/Abhinav1574k/AbhiCode/tree/master/3945-digit-frequency-score) |
 ## Binary Search
