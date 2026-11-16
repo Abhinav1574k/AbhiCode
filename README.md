@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
+| [3856-trim-trailing-vowels](https://github.com/Abhinav1574k/AbhiCode/tree/master/3856-trim-trailing-vowels) |
 ## Array
 |  |
 | ------- |
