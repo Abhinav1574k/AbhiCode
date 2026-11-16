@@ -1,17 +1,16 @@
 class Solution {
 public:
     string trimTrailingVowels(string s) {
-        unordered_set<char> st = {'a', 'e', 'i', 'o', 'u'};
         int n = s.size();
 
         int i = n - 1;
-        while(i > 0 && st.find(s[i]) != st.end()){
+        while(i >= 0 && (s[i]=='a'||s[i]=='e'||s[i]=='i'||s[i]=='o'||s[i]=='u')){
             i--;
         }
 
-        if(st.find(s[i]) == st.end()){
-            return s.substr(0, i + 1);
+        if(i < 0){
+            return "";
         }
-        return "";
+        return s.substr(0, i + 1);
     }
 };
