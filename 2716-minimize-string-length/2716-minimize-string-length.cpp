@@ -6,8 +6,8 @@ public:
         int count = 0;
         
         for(char c : s){
-            if(alpha[int(c) - 97] == 0){
-                alpha[int(c) - 97] = 1;
+            if(alpha[c - 'a'] == 0){
+                alpha[c - 'a'] = 1;
                 count++;
             }
         }
