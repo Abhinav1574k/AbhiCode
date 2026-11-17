@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3794-reverse-string-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Abhinav1574k/AbhiCode/tree/master/3856-trim-trailing-vowels) |
+| [3894-traffic-signal-color](https://github.com/Abhinav1574k/AbhiCode/tree/master/3894-traffic-signal-color) |
 ## Array
 |  |
 | ------- |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3871-count-commas-in-range-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3894-traffic-signal-color](https://github.com/Abhinav1574k/AbhiCode/tree/master/3894-traffic-signal-color) |
 | [3908-valid-digit-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Abhinav1574k/AbhiCode/tree/master/3945-digit-frequency-score) |
 | [3959-check-good-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/3959-check-good-integer) |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
+| [3894-traffic-signal-color](https://github.com/Abhinav1574k/AbhiCode/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/3959-check-good-integer) |
 ## Database
 |  |
