@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2315-count-asterisks](https://github.com/Abhinav1574k/AbhiCode/tree/master/2315-count-asterisks) |
 | [2716-minimize-string-length](https://github.com/Abhinav1574k/AbhiCode/tree/master/2716-minimize-string-length) |
+| [2864-maximum-odd-binary-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2864-maximum-odd-binary-number) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhinav1574k/AbhiCode/tree/master/3146-permutation-difference-between-two-strings) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2651-calculate-delayed-arrival-time](https://github.com/Abhinav1574k/AbhiCode/tree/master/2651-calculate-delayed-arrival-time) |
 | [2652-sum-multiples](https://github.com/Abhinav1574k/AbhiCode/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2769-find-the-maximum-achievable-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2864-maximum-odd-binary-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1323-maximum-69-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/1323-maximum-69-number) |
+| [2864-maximum-odd-binary-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2864-maximum-odd-binary-number) |
 ## Brainteaser
 |  |
 | ------- |
