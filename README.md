@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3110-score-of-a-string) |
 | [3146-permutation-difference-between-two-strings](https://github.com/Abhinav1574k/AbhiCode/tree/master/3146-permutation-difference-between-two-strings) |
+| [3174-clear-digits](https://github.com/Abhinav1574k/AbhiCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/3794-reverse-string-prefix) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [3174-clear-digits](https://github.com/Abhinav1574k/AbhiCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Abhinav1574k/AbhiCode/tree/master/3894-traffic-signal-color) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Abhinav1574k/AbhiCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav1574k/AbhiCode/tree/master/2000-reverse-prefix-of-word) |
+| [3174-clear-digits](https://github.com/Abhinav1574k/AbhiCode/tree/master/3174-clear-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
