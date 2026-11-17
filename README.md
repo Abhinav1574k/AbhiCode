@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1768-merge-strings-alternately](https://github.com/Abhinav1574k/AbhiCode/tree/master/1768-merge-strings-alternately) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav1574k/AbhiCode/tree/master/2000-reverse-prefix-of-word) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3794-reverse-string-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/3794-reverse-string-prefix) |
 ## String
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Abhinav1574k/AbhiCode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2000-reverse-prefix-of-word](https://github.com/Abhinav1574k/AbhiCode/tree/master/2000-reverse-prefix-of-word) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhinav1574k/AbhiCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/1929-concatenation-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Abhinav1574k/AbhiCode/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/Abhinav1574k/AbhiCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/Abhinav1574k/AbhiCode/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
