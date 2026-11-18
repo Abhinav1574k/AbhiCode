@@ -1,19 +1,16 @@
 class Solution {
 public:
     int maxFreqSum(string s) {
-        vector<int> count(26);
-        int maxVowel = 0;
-        int maxConsonant = 0;
-
-        for (const char c : s)
-            ++count[c - 'a'];
-
-        for (const char c : s)
-            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u')
-                maxVowel = max(maxVowel, count[c - 'a']);
-            else
-                maxConsonant = max(maxConsonant, count[c - 'a']);
-
-        return maxVowel + maxConsonant;
+        int freq[26], maxVowel = 0, maxConso = 0;
+        for (char c : s) {
+            int i = c - 'a';
+            freq[i]++;
+            if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u') {
+                maxVowel = max(maxVowel, freq[i]);
+            } else {
+                maxConso = max(maxConso, freq[i]);
+            }
+        }
+        return maxVowel + maxConso;
     }
 };
