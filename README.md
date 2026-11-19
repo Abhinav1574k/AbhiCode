@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/2643-row-with-maximum-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav1574k/AbhiCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/Abhinav1574k/AbhiCode/tree/master/2942-find-words-containing-character) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/0389-find-the-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Abhinav1574k/AbhiCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/Abhinav1574k/AbhiCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3024-type-of-triangle](https://github.com/Abhinav1574k/AbhiCode/tree/master/3024-type-of-triangle) |
 ## Quicksort
 |  |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1323-maximum-69-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Abhinav1574k/AbhiCode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2864-maximum-odd-binary-number](https://github.com/Abhinav1574k/AbhiCode/tree/master/2864-maximum-odd-binary-number) |
 ## Brainteaser
 |  |
