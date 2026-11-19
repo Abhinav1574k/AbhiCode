@@ -1,0 +1,19 @@
+class Solution {
+public:
+    int minElement(vector<int>& nums) {
+        int minDigitSum = 100;
+      
+        for (int number : nums) {
+            int digitSum = 0;
+          
+            while (number > 0) {
+                digitSum += number % 10;  
+                number /= 10;              
+            }
+          
+            minDigitSum = min(minDigitSum, digitSum);
+        }
+      
+        return minDigitSum;
+    }
+};
