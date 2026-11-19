@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Abhinav1574k/AbhiCode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinav1574k/AbhiCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3701-compute-alternating-sum](https://github.com/Abhinav1574k/AbhiCode/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Abhinav1574k/AbhiCode/tree/master/3875-construct-uniform-parity-array-i) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3174-clear-digits](https://github.com/Abhinav1574k/AbhiCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3701-compute-alternating-sum](https://github.com/Abhinav1574k/AbhiCode/tree/master/3701-compute-alternating-sum) |
 | [3838-weighted-word-mapping](https://github.com/Abhinav1574k/AbhiCode/tree/master/3838-weighted-word-mapping) |
 | [3894-traffic-signal-color](https://github.com/Abhinav1574k/AbhiCode/tree/master/3894-traffic-signal-color) |
 | [3959-check-good-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/3959-check-good-integer) |
