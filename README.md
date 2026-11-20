@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Abhinav1574k/AbhiCode/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Abhinav1574k/AbhiCode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2643-row-with-maximum-ones](https://github.com/Abhinav1574k/AbhiCode/tree/master/2643-row-with-maximum-ones) |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/Abhinav1574k/AbhiCode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2138-divide-a-string-into-groups-of-size-k](https://github.com/Abhinav1574k/AbhiCode/tree/master/2138-divide-a-string-into-groups-of-size-k) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Abhinav1574k/AbhiCode/tree/master/2549-count-distinct-numbers-on-board) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Abhinav1574k/AbhiCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/Abhinav1574k/AbhiCode/tree/master/3174-clear-digits) |
 | [3498-reverse-degree-of-a-string](https://github.com/Abhinav1574k/AbhiCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Abhinav1574k/AbhiCode/tree/master/3701-compute-alternating-sum) |
