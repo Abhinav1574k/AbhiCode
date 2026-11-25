@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3516-find-closest-person](https://github.com/Abhinav1574k/AbhiCode/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Abhinav1574k/AbhiCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Abhinav1574k/AbhiCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav1574k/AbhiCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Abhinav1574k/AbhiCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/Abhinav1574k/AbhiCode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Abhinav1574k/AbhiCode/tree/master/3871-count-commas-in-range-ii) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Abhinav1574k/AbhiCode/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/Abhinav1574k/AbhiCode/tree/master/2427-number-of-common-factors) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Abhinav1574k/AbhiCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [4010-maximize-pair-strength-using-gcd](https://github.com/Abhinav1574k/AbhiCode/tree/master/4010-maximize-pair-strength-using-gcd) |
 ## Hash Table
 |  |
