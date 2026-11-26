@@ -1,6 +1,6 @@
 class Solution {
 public:
     bool isSameAfterReversals(int num) {
-        return num > 0 ? num % 10 : 1;
+        return num % 10 != 0 || num == 0;
     }
 };
